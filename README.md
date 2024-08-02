@@ -6,7 +6,8 @@ Projeto Fernanda Kipper
 [PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
 [PROJECT__URL]: https://landing-page-ssr.vercel.app/
 
-<h1 align="center" style="font-weight: bold;">Landing Page w/ SSR</h1>
+<h1 align="center" style="font-weight: bold;">Landing Page</h1>
+
 
 ![angular][ANGULAR__BADGE]
 ![typescript][TYPESCRIPT__BADGE]
